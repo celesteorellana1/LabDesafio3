@@ -1,0 +1,14 @@
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\net8.0\ListadoDeComprasyClientes.exe
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\net8.0\ListadoDeComprasyClientes.deps.json
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\net8.0\ListadoDeComprasyClientes.runtimeconfig.json
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\net8.0\ListadoDeComprasyClientes.dll
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\bin\Debug\net8.0\ListadoDeComprasyClientes.pdb
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ListadoDeComprasyClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ListadoDeComprasyClientes.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ListadoDeComprasyClientes.AssemblyInfo.cs
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ListadoDeComprasyClientes.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ListadoDeComprasyClientes.dll
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\refint\ListadoDeComprasyClientes.dll
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ListadoDeComprasyClientes.pdb
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ListadoDeComprasyClientes.genruntimeconfig.cache
+C:\Users\CELESTE ORE\source\repos\ListadoDeComprasyClientes\ListadoDeComprasyClientes\obj\Debug\net8.0\ref\ListadoDeComprasyClientes.dll

@@ -1,0 +1,14 @@
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.exe
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.deps.json
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.runtimeconfig.json
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.dll
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.pdb
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.AssemblyInfo.cs
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.dll
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\refint\ListaDeTareas.dll
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.pdb
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.genruntimeconfig.cache
+C:\Users\CELESTE ORE\source\repos\ListaDeTareas\ListaDeTareas\obj\Debug\net8.0\ref\ListaDeTareas.dll

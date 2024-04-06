@@ -1,0 +1,14 @@
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\bin\Debug\net8.0\Juego totito.exe
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\bin\Debug\net8.0\Juego totito.deps.json
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\bin\Debug\net8.0\Juego totito.runtimeconfig.json
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\bin\Debug\net8.0\Juego totito.dll
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\bin\Debug\net8.0\Juego totito.pdb
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\Juego totito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\Juego totito.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\Juego totito.AssemblyInfo.cs
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\Juego totito.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\Juego totito.dll
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\refint\Juego totito.dll
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\Juego totito.pdb
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\Juego totito.genruntimeconfig.cache
+C:\Users\CELESTE ORE\source\repos\Juego totito\Juego totito\obj\Debug\net8.0\ref\Juego totito.dll
